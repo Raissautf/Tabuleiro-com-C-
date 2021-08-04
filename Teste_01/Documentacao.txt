@@ -1,0 +1,3 @@
+﻿Jogador 01 = Roda a roleta o resultado que obver, irá andar as casas
+na casa que cair, terá um pergunta, caso responder com sucesso, roda a roleta novamente,
+caso estiver errado a resposta, volte uma casa e passa a vez para o próximo jogador.
